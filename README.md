@@ -17,6 +17,7 @@ PhishGuard is a **real-time phishing link detection** Chrome extension designed 
 
 ## 🔧 Installation  
 1. Clone the repository:  
+
    ```sh
    git clone https://github.com/yourusername/PhishGuard.git
    ```
@@ -34,3 +35,7 @@ This project is open-source and licensed under the **MIT License**. Contribution
 ---
 
 🔗 **Stay Safe Online with PhishGuard!** 🚀
+
+
+
+[screen-capture (3).webm](https://github.com/user-attachments/assets/4372c915-c97e-4420-a1ec-0a09e3ce6be4)
